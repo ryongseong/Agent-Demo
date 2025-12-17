@@ -14,11 +14,6 @@ requires Python 3.10 or higher
     pip install -r requirements.txt
     ```
 
-3. Set your Google API key in each directory that uses it
-    ```.env
-    GOOGLE_API_KEY=your_google_api_key_here
-    ```
-
 ## Usage
 To run the lang-graph example, execute:
 ```bash
